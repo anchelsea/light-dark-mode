@@ -75,6 +75,10 @@ a{
   font-weight: bold;
 }
 
+.social-icon .a-github:hover{
+  border-bottom: none;
+}
+
 a:hover,
 a:focus {
   color: var(--on-background);
