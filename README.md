@@ -1,5 +1,5 @@
 # light-dark-mode
-JS couse - Template 3: Set dark mode for website.
+JS couse - Template 3: Set Light or Dark Mode for website.
 
 ![image](https://user-images.githubusercontent.com/57854340/99497491-92daf600-29a8-11eb-9dac-a70c368099a1.png)
 ![image](https://user-images.githubusercontent.com/57854340/99497520-9ff7e500-29a8-11eb-9fc7-5cb6a8c8a6c4.png)
